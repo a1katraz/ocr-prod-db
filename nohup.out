@@ -1,0 +1,7 @@
+[W 13:41:33.858 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[I 13:41:33.866 NotebookApp] Serving notebooks from local directory: /home/india_politics_live/ocr
+[I 13:41:33.867 NotebookApp] The Jupyter Notebook is running at:
+[I 13:41:33.867 NotebookApp] http://instance-1:6060/
+[I 13:41:33.867 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 13:41:42.146 NotebookApp] Interrupted...
+[I 13:41:42.146 NotebookApp] Shutting down 0 kernels
